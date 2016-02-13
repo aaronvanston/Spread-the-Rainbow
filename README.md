@@ -6,5 +6,3 @@ Uses the new meta-theme in chrome 39 on android Lollipop
 View more information about this feature: 
 https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en
 
-
-gist: https://gist.github.com/aaronvanston/3d528669a18b9620a925
